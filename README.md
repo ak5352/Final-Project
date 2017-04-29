@@ -2,11 +2,17 @@
 
 This repository holds the files for my final Drawing on the Web project
 
+** [Link to project](https://i6.cims.nyu.edu/~ak5352/380/Final/) **  
+** Username: ** database
+** Password: ** class
+
 ## What I hope to accomplish with this project
 
 I want to play with the idea of creating a user experience by creating three drawings that the user can interact with. 
 Since I love playing video games, I also want to make each of the drawings resemble games. To do this, I plan to make sprites out of
 SVG Graphics and use the p5.play.js library to give each sprite collisions and user-controlled movement. 
+
+** EDIT: ** SVG graphics are not yet compatible with the p5.play library as of yet, so I had to change the graphics to regular PNG graphics.
 
 ## The Plan
 
@@ -26,8 +32,10 @@ avoid hitting the ground. However, if the sprite does touch the ground, the game
 ### Drawing 3
 
 This drawing is inspired by the Google Chrome Dinosaur game. Instead of a dinosaur jumping over cacti, however, this drawing will have
-an elephant trying to jump over planks. The user presses "X" to jump over plankks, but if it collides with one, the game will end and reset.
-The planks will be randomly and continuously generated as long as the elephant is alive.
+an elephant trying to jump over planks. The user presses "X" to jump over planks, but if it collides with one, the game will end and reset.
+The planks will be randomly and continuously generated as long as the elephant is alive
+
+** EDIT: ** I changed the planks to clouds because it looked cuter. I hope this is okay. 
 
 ### Interface
 
