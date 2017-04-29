@@ -2,8 +2,8 @@
 
 This repository holds the files for my final Drawing on the Web project
 
-__[Link to project](https://i6.cims.nyu.edu/~ak5352/380/Final/) __ 
-** Username: ** database
+**[Link to project](https://i6.cims.nyu.edu/~ak5352/380/Final/)**
+**Username: ** database
 ** Password: ** class
 
 ## What I hope to accomplish with this project
